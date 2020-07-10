@@ -10,7 +10,7 @@ Open-source projects are:
 * [Bassline](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-bassline/) : all in one synth voice for acid basslines and drones.
 * [BBD delay/flanger](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-bbd-delayflanger/) : all analogue effects unit based on V3205 BBD IC.
 * [Delay](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-delay/) : tape and digital delay unit with tap tempo, tempo sync, reverse, hold and add functions.
-* [Dual VCA](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-vca-ii/) : Polivoks architecture inspired dual VCA, rare Russian differential opamps are now replaced with AS3330.
+* [Dual VCA](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-vca-ii/) : Polivoks architecture inspired dual VCA, rare Russian differential opamps are now replaced with AS3360.
 * [Envelope](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-eg-ii/) : recreation of Polivoks envelope generator with loop and end of attack functions.
 * [MIDI-CV](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-midi-cv-ii/) : Polivoks functionality inspired dual MIDI-CV converter with glide function.
 * [Mixer](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-mixer-ii/) : simple 3 chanel audio mixer.
